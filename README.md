@@ -28,8 +28,7 @@
 ## 🚀 Projetos em Destaque
 
 ### 🎲 Jogo-Domino
-Aplicação desenvolvida utilizando lógica de programação e estruturação orientada a objetos.  
-Foco em organização de código, regras do jogo e manipulação eficiente de dados.
+Jogo de Dominó desenvolvido em C++ utilizando o padrão MVC, com separação clara entre lógica do jogo, interface e controle da partida, garantindo organização, manutenibilidade e melhor estruturação do código.
 
 ---
 
