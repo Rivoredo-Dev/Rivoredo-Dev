@@ -1,22 +1,33 @@
-# 👊 Less talk. More code.
+# 🚀 Code first. Always.
 
-🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor Back-End | Inglês B2
+🎓 Ciência da Computação | 💻 Desenvolvedor Back-End  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivoredo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivoredocomercial@gmail.com)
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Quem Sou
 
-- 🎓 Cursando **Ciência da Computação** na **PUC-SP**.
-- 🖥️ Desenvolvedor **Back-End**, com foco em lógica, estrutura de dados e construção de APIs.
-- ⚙️ Focado em boas práticas, organização de código e resolução eficiente de problemas.
-- 📍 São Paulo - Brasil.
+Sou estudante de **Ciência da Computação na PUC-SP** com foco em desenvolvimento **Back-End** e construção de sistemas bem estruturados.
+
+Tenho interesse em arquitetura de software, organização de código e soluções eficientes para problemas complexos.  
+Busco sempre escrever código limpo, escalável e fácil de manter.
+
+📍 São Paulo - Brasil
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🔎 Meu Foco
+
+- ⚙️ Desenvolvimento Back-End
+- 🧠 Lógica e Estrutura de Dados
+- 🏗️ Organização e Arquitetura de Software
+- 🚀 Evolução contínua e boas práticas
+
+---
+
+## 🛠️ Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -25,11 +36,4 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🎲 Jogo-Domino
-Jogo de Dominó desenvolvido em C++ utilizando o padrão MVC, com separação clara entre lógica do jogo, interface e controle da partida, garantindo organização, manutenibilidade e melhor estruturação do código.
-
----
-
-💡 *Sempre aprendendo. Sempre construindo.*
+💡 Construindo base forte hoje para desenvolver sistemas robustos amanhã.
