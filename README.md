@@ -1,7 +1,7 @@
 # 🚀 Code first. Always.
 
 <p align="center">
-  <img src="assets/most-used-languages.png" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivoredo&layout=compact&theme=radical" />
 </p>
 
 🎓 Ciência da Computação | 💻 Desenvolvedor Back-End  
