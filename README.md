@@ -1,13 +1,21 @@
 # 🚀 Code first. Always.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivoredo&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&theme=radical" />
 </p>
 
-🎓 Ciência da Computação | 💻 Desenvolvedor Back-End  
+<p align="center">
+  🎓 Ciência da Computação | 💻 Desenvolvedor Back-End | 🇧🇷 Inglês B2
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivoredo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivoredocomercial@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jlucasslima">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
@@ -24,10 +32,10 @@ Busco sempre escrever código limpo, escalável e fácil de manter.
 
 ## 🔎 Meu Foco
 
-- ⚙️ Desenvolvimento Back-End
-- 🧠 Lógica e Estrutura de Dados
-- 🏗️ Organização e Arquitetura de Software
-- 🚀 Evolução contínua e boas práticas
+- ⚙️ **Desenvolvimento Back-End**: Criação de APIs e lógica de servidor robusta.
+- 🧠 **Lógica e Estrutura de Dados**: Resolução eficiente de problemas complexos.
+- 🏗️ **Arquitetura de Software**: Organização e escalabilidade de sistemas.
+- 🚀 **Evolução Contínua**: Foco constante em boas práticas e novas tecnologias.
 
 ---
 
@@ -43,4 +51,4 @@ Busco sempre escrever código limpo, escalável e fácil de manter.
 
 ---
 
-💡 Construindo base forte hoje para desenvolver sistemas robustos amanhã.
+💡 *Construindo base forte hoje para desenvolver sistemas robustos amanhã.*
