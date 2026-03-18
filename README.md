@@ -1,5 +1,9 @@
 # 🚀 Code first. Always.
 
+<p align="center">
+  <img src="assets/most-used-languages.png" alt="Most Used Languages" />
+</p>
+
 🎓 Ciência da Computação | 💻 Desenvolvedor Back-End  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rivoredo)
