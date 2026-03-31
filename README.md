@@ -1,7 +1,7 @@
 # 🚀 Code first. Always.
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivoredo-Dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&langs_count=6" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivoredo-Dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&langs_count=8&count_private=true" alt="Top Languages" />
   
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Rivoredo-Dev&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
 </p>
