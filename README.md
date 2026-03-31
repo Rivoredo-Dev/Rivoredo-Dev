@@ -1,13 +1,13 @@
 # 🚀 Code first. Always.
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivoredo-Dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivoredo-Dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&langs_count=6" alt="Top Languages" />
   
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Rivoredo-Dev&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=ffffff&dates=cccccc" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Rivoredo-Dev&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  🎓 Ciência da Computação | 💻 Desenvolvedor Back-End
+  🎓 Computer Science Student | 💻 Back-End Developer
 </p>
 
 <p align="center">
@@ -21,23 +21,22 @@
 
 ---
 
-## 👨‍💻 Quem Sou
+## 👨‍💻 About Me
 
-Sou estudante de **Ciência da Computação na PUC-SP** com foco em desenvolvimento **Back-End** e construção de sistemas bem estruturados.
+I am a **Computer Science** student at **PUC-SP** focused on **Back-End** development and building well-structured systems.
 
-Tenho interesse em arquitetura de software, organização de código e soluções eficientes para problemas complexos.  
-Busco sempre escrever código limpo, escalável e fácil de manter.
+I am passionate about software architecture, code organization, and efficient solutions for complex problems. I always strive to write clean, scalable, and maintainable code.
 
-📍 São Paulo - Brasil
+📍 São Paulo - Brazil
 
 ---
 
-## 🔎 Meu Foco
+## 🔎 My Focus
 
-- ⚙️ Desenvolvimento Back-End
-- 🧠 Lógica e Estrutura de Dados
-- 🏗️ Organização e Arquitetura de Software
-- 🚀 Evolução contínua e boas práticas
+- ⚙️ Back-End Development
+- 🧠 Logic and Data Structures
+- 🏗️ Software Architecture & Organization
+- 🚀 Continuous improvement and best practices
 
 ---
 
@@ -53,4 +52,4 @@ Busco sempre escrever código limpo, escalável e fácil de manter.
 
 ---
 
-💡 *Construindo base forte hoje para desenvolver sistemas robustos amanhã.*
+💡 *Building a strong foundation today to develop robust systems tomorrow.*
