@@ -1,11 +1,11 @@
-# 🚀 Code first. Always.
+#  Code first. Always.
 
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Rivoredo-Dev&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  🎓 Computer Science Student | 💻 Back-End Developer
+   Computer Science Student |  Back-End Developer
 </p>
 
 <p align="center">
@@ -19,26 +19,26 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **Computer Science** student at **PUC-SP** focused on **Back-End** development and building well-structured systems.
 
 I am passionate about software architecture, code organization, and efficient solutions for complex problems. I always strive to write clean, scalable, and maintainable code.
 
-📍 São Paulo - Brazil
+ São Paulo - Brazil
 
 ---
 
-## 🔎 My Focus
+##  My Focus
 
-- ⚙️ Back-End Development
-- 🧠 Logic and Data Structures
-- 🏗️ Software Architecture & Organization
-- 🚀 Continuous improvement and best practices
+-  Back-End Development
+-  Logic and Data Structures
+-  Software Architecture & Organization
+-  Continuous improvement and best practices
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -50,4 +50,4 @@ I am passionate about software architecture, code organization, and efficient so
 
 ---
 
-💡 *Building a strong foundation today to develop robust systems tomorrow.*
+ *Building a strong foundation today to develop robust systems tomorrow.*
